@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Immanuel Olaoye</h1>
-<h3 align="center">A passionate web developer looking for job opportunities</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n00b110&label=Profile%20views&color=0e75b6&style=flat" alt="n00b110" /> </p>
 
